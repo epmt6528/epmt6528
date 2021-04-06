@@ -1,3 +1,10 @@
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 <div align='center'>
   <h3>Hi! I'm Taichi 👨🏻‍💻</h3>
   <h3>Front end developer specialized in React.js</h3>
