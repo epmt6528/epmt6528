@@ -1,9 +1,7 @@
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
+
 
 <div align='center'>
   <h2>Hi! I'm Taichi 👨🏻‍💻</h2>
