@@ -40,7 +40,6 @@ I'm an easy-going developer who loves working with people. I moved to this indus
 <p align="left">
   <a href="https://www.linkedin.com/in/taichimurai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   <a href="https://www.dev.to/taichim" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>
-  <a href="https://leetcode.com/epmt6528" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="32" height="32" /></a>
 </p>
 
 
