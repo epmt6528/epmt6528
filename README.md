@@ -7,7 +7,6 @@ Full Stack Developer
 I'm an easy-going developer who loves working with people. I moved to this industry from Bio-Tech 🧑🏻‍🔬 a few years ago. Ask me why! I'm always eager to learn new skills to improve myself as a developer and make my life easier.
 
 * 🌍  I'm based in Vancouver, CANADA 🦫
-* 🖥️  See my portfolio at [My Portfolio](http://www.taichimurai.com/)
 * ✉️  You can contact me at [epmt6528@gmail.com](mailto:epmt6528@gmail.com)
 
 ### Skills
@@ -38,11 +37,10 @@ I'm an easy-going developer who loves working with people. I moved to this indus
 </p>
 
 ### Socials
-<p align="left"> 
-  <a href="https://www.github.com/epmt6528" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+<p align="left">
   <a href="https://www.linkedin.com/in/taichimurai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-  <a href="https://leetcode.com/epmt6528/" target="_blank" rel="noreferrer"><img src="https://github.com/epmt6528/epmt6528/assets/53918541/b9ed77a7-ccbd-493f-8d50-6882e03c295d" width="32" height="32" /></a>
-  <a href="https://www.dev.to/taichim" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" />
+  <a href="https://www.dev.to/taichim" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>
+  <a href="https://leetcode.com/epmt6528" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="32" height="32" /></a>
 </p>
 
 
