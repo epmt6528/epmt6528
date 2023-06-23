@@ -38,8 +38,12 @@ I'm an easy-going developer who loves working with people. I moved to this indus
 </p>
 
 ### Socials
-
-<p align="left"> <a href="https://www.github.com/epmt6528" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/taichimurai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> 
+  <a href="https://www.github.com/epmt6528" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+  <a href="https://www.linkedin.com/in/taichimurai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://leetcode.com/epmt6528/" target="_blank" rel="noreferrer"><img src="https://github.com/epmt6528/epmt6528/assets/53918541/b9ed77a7-ccbd-493f-8d50-6882e03c295d" width="32" height="32" /></a>
+  <a href="https://www.dev.to/taichim" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" />
+</p>
 
 
 <b>My GitHub Stats</b>
