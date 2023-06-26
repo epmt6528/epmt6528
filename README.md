@@ -30,4 +30,8 @@ I'm an easy-going developer who loves working with people. I moved to this indus
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/epmt6528"><img src="https://github-readme-stats.vercel.app/api?username=epmt6528&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="epmt6528's GitHub stats" /></a>
+<p>
+  <a href="http://www.github.com/epmt6528"><img src="https://github-readme-stats.vercel.app/api?username=epmt6528&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="epmt6528's GitHub stats" /></a>
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=epmt6528&theme=darcula)
+</p>
