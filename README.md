@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I'm an easygoing developer who loves working with people. I moved to this industry from Bio-Tech 🧑🏻‍🔬 a few years ago. Ask me why! I'm always eager to learn new skills to improve myself as a developer and make my life easier.
+I'm an easygoing developer who loves working with people. I moved to this industry from Bio-Tech 🧑🏻‍🔬 a few years ago. Ask me why! I'm always eager to learn new skills to improve myself as a software developer.
 
 * 🌍  I'm based in Vancouver, CANADA 🦫
 * ✉️  You can contact me at [epmt6528@gmail.com](mailto:epmt6528@gmail.com)
