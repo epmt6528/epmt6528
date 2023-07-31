@@ -9,7 +9,7 @@ I'm an easygoing fullstack developer who loves working with people. I moved to t
 * 🌍  I'm based in Vancouver, BC 🦫
 * ✉️  You can contact me at [epmt6528@gmail.com](mailto:epmt6528@gmail.com)
 
-### Skills
+### Skill
 
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
