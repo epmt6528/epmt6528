@@ -6,7 +6,7 @@ Full Stack Developer
 
 I'm an easygoing fullstack developer who loves working with people. I moved to this industry from Bio-Tech 🧑🏻‍🔬 a few years ago. I'm always eager to learn new skills to improve myself as a software developer.
 
-* 🌍  I'm based in Vancouver, BC 🦫
+* 🌍  I'm based in Vancouver,BC 🦫
 * ✉️  You can contact me at [epmt6528@gmail.com](mailto:epmt6528@gmail.com)
 
 ### Skills
