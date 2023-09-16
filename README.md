@@ -1,7 +1,7 @@
 Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)   I'm Taichi Murai
 ====================================================================================================================================
 
-Full Stack Developer 
+Full Stack Developer
 --------------------
 
 I'm an easygoing fullstack developer who loves working with people. I moved to this industry from Bio-Tech 🧑🏻‍🔬 a few years ago. I'm always eager to learn new skills to improve myself as a software developer.
